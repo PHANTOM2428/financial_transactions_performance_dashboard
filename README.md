@@ -81,28 +81,7 @@ Key visualizations included in this project:
 - Correlation heatmap
 
 All visualizations are available in the Images folder.
-Financial Transactions Performance Dashboard/
-├── data/
-│   ├── customers.csv
-│   ├── credit_profiles.csv
-│   ├── avg_transactions_after_campaign.csv
-│   ├── E_MasterCardDump.zip
-│   └── transactions.zip
-│
-├── Images/
-│   ├── Income Distribution.png
-│   ├── Income distribution based on different parameters.png
-│   ├── Age Distribution Fixed.png
-│   ├── Customer Distribution based on location and gender.png
-│   ├── Credit score VS Credit Limit.png
-│   ├── Heat Map.png
-│   ├── Distribution of Payment accross age groups.jpeg
-│   ├── Product Categories distribution.png
-│   ├── Final Analysis.jpeg
-│   └── Final Verdict.jpeg
-│
-├── Credit_Card_Analysis.ipynb
-└── README.md
+
 
 
 ---
