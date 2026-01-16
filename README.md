@@ -91,4 +91,3 @@ This analysis identifies a promising untapped customer segment for AtliQo Bankâ€
 
 ---
 
-## Folder Structure
